@@ -1,7 +1,7 @@
-# Valve Anti-Cheat and VACNet Findings
+# Valve Anti-Cheat and VACnet Findings
 
 ## What is this repository about?
-This repository will contain a bunch of information found about **Valve Anti-Cheat** and **VACNet** (the latter being Valve Corporation's Machine Learning based Anti-Cheat, more information can be found in this video created by 3kliksphilip [HERE](https://www.youtube.com/watch?v=SnRgW54EWwA))
+This repository will contain a bunch of information found about **Valve Anti-Cheat** and **VACnet** (the latter being Valve Corporation's Machine Learning based Anti-Cheat, more information can be found in this video created by 3kliksphilip [HERE](https://www.youtube.com/watch?v=SnRgW54EWwA))
 
 This repository will also contain information about about "Trustfactor" and "Steam Trust" which is an upcoming feature aimed to allow 3rd party developers to implement a trust based system into their games/applications
 
