@@ -13,7 +13,7 @@ This folder will contain all information present about Counter-Strike: Global Of
 * Getting reported a lot (duh)
 * Getting reported during your initial calibration (10 games) WILL contribute to a long period of trust factor degradation.
 * Commendations from newly created accounts *may* cause your trust factor to degrade.
-* [NEEDS TESTING - UNCONFIRMED] Idling *may* cause temporary trust factor degradation.
+* **[NEEDS TESTING - UNCONFIRMED]** Idling *may* cause temporary trust factor degradation.
 
 
 
