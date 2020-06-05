@@ -11,8 +11,8 @@ This folder will contain all information present about Counter-Strike: Global Of
   
   
 * Getting reported a lot (duh)
-* Getting reported during your initial calibration (10 games) WILL contribute to a long period of trustfactor degradation.
-* Commendations from newly created accounts *may* cause your Trustfactor to degrade.
+* Getting reported during your initial calibration (10 games) WILL contribute to a long period of trust factor degradation.
+* Commendations from newly created accounts *may* cause your trust factor to degrade.
 
 
 
