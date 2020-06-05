@@ -6,8 +6,7 @@ This folder will contain all information present about Counter-Strike: Global Of
 
 ## CS:GO Trust Factor
 
-### Items which may contribute towards your Trust Factor degrading
-*Have something to contribute towards this section? Make a pull request so it can be added!*  
+### Items which may contribute towards your Trust Factor degrading 
   
   
 * Getting reported a lot (duh)
@@ -17,7 +16,6 @@ This folder will contain all information present about Counter-Strike: Global Of
 
 
 ### Ways to improve your Trust Factor
-*Have something to contribute towards this section? Make a pull request so it can be added!*  
 
 TBA.
 
@@ -25,6 +23,5 @@ TBA.
 
 ***
 ## Steam Trust
-*Have something to contribute towards this? Make a pull request so it can be added!*  
 
 No information available yet.
