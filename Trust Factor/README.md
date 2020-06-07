@@ -27,4 +27,4 @@ TBA.
 ***
 ## Steam Trust
 
-No information available yet.
+No information available yet due to there being no release documentation. Some developers are already in talks with Valve Corp to implement trust into their games.
