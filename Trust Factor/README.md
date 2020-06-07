@@ -14,6 +14,7 @@ This folder will contain all information present about Counter-Strike: Global Of
 * Getting reported during your initial calibration (10 games) WILL contribute to a long period of trust factor degradation.
 * Commendations from newly created accounts *may* cause your trust factor to degrade.
 * Idling *may* cause temporary trust factor degradation. **[NEEDS TESTING - UNCONFIRMED]**
+* Reports obtained from Danger Zone have slightly more weight in your trust factor degradation due to there being no Overwatch within the gamemode.
 
 
 
